@@ -14,7 +14,7 @@ https://github.com/alpine-docker/socat
 
 https://travis-ci.org/alpine-docker/socat
 
-### Docker iamge tags:
+### Docker image tags:
 
 https://hub.docker.com/r/alpine/socat/tags/
 
